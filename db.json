@@ -1,0 +1,28 @@
+{
+  "clientes": [
+    {
+      "nombre": "ARMANDO marquez",
+      "empresa": "ALTEST SA DE CV",
+      "email": "facturas.altest@gmail.com",
+      "telefono": "4921223251",
+      "notas": "cliente 1",
+      "id": 1
+    },
+    {
+      "nombre": "ARMANDO",
+      "empresa": "ALTEST SA DE CV",
+      "email": "facturas.altest@gmail.com",
+      "telefono": "4921223251",
+      "notas": "cliente 1",
+      "id": 2
+    },
+    {
+      "nombre": "XIMENA",
+      "empresa": "ALTEST SA DE CV",
+      "email": "facturas.altest@gmail.com",
+      "telefono": "4921223251",
+      "notas": "xime",
+      "id": 4
+    }
+  ]
+}
